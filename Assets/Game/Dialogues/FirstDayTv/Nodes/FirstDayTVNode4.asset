@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8667c32aa9f7c64c96cceeffcbf5cff, type: 3}
+  m_Name: FirstDayTVNode4
+  m_EditorClassIdentifier: 
+  dialogueLine: {fileID: 11400000, guid: 94c09f744df8145488b840d66bcdc98f, type: 2}
+  nextNode: {fileID: 11400000, guid: 17df4217e75839346a1395e9b8124ad1, type: 2}
