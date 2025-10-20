@@ -1,7 +1,7 @@
 # 🔒 Make sure you're safe
 3D Psx-style psycholonic horror.
 
-# 📖 Описание
+# 📖 About game
 Created a stylized horror game with a strong emphasis on atmosphere and user experience. Key contributions:
 - Developed custom shaders (full-screen pixel, object outline) to achieve a unique visual style and enhance gameplay clarity.
 - Modeled all 3D assets, demonstrating a holistic understanding of the game art pipeline.
